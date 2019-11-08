@@ -1,0 +1,38 @@
+Datasets and discussions 
+https://www.kaggle.com/
+
+Datasets
+https://archive.ics.uci.edu/ml/datasets.php
+
+Local Datasets
+https://data.gov.in/
+
+Online Free Courses on ML and DL
+https://www.coursera.org/
+https://www.udacity.com/courses/school-of-ai
+
+Version control
+https://github.com/
+
+Sites
+https://sites.google.com/
+
+Software download
+https://www.anaconda.com/downloads
+
+Markdown Cheatsheet
+https://www.markdownguide.org/cheat-sheet/
+
+Documentation for python packages
+https://docs.scipy.org/doc/numpy/reference/
+https://pandas.pydata.org/pandas-docs/stable/
+https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
+https://matplotlib.org/3.1.1/contents.html
+https://seaborn.pydata.org/
+https://scikit-learn.org/stable/documentation.html
+
+
+Online Jupyter notebooks
+https://colab.research.google.com/
+https://notebooks.azure.com/
+https://www.kaggle.com/
